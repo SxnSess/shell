@@ -1,0 +1,12 @@
+sudo apt install git gnome-shell-extension-manager -y
+
+
+git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git
+
+./install.sh -m -t all -l -N stable --normal --round
+
+
+https://www.pling.com/p/1102582/
+https://www.pling.com/p/1355701
+
+
